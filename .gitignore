@@ -1,0 +1,5 @@
+aed.exe
+*.o
+*.obj
+*.exe
+*.log
