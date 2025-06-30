@@ -101,6 +101,7 @@ SAIR
 
 ---
 
-## 🧠 Author
+## 🧠 Authors
 
-**Alves1306**
+**António Alves**
+**João Alves**
